@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Future (Project Name)
 
 A full-stack AI Flow application built with **React + React Flow (Frontend)** and **Node.js + MongoDB (Backend)**.
@@ -118,3 +119,6 @@ This project uses a local MongoDB instance. Ensure MongoDB is installed and runn
 ## 📬 Author
 
 Future Project 🚀
+=======
+# Future
+>>>>>>> 92ccb8f1d7e353104e59461f96236acac3fb9892
